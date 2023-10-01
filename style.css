@@ -8,12 +8,15 @@ body{
     font-family:Amaryllis Sans ;
 }
 .container{
-    border-radius: 8px;
+    border-radius: 7px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
     margin: auto;
     padding: 0 0 14px 10px;
     width: 396px;
-    
+    -webkit-border-radius: 7px;
+    -moz-border-radius: 7px;
+    -ms-border-radius: 7px;
+    -o-border-radius: 7px;
 }
 .btn{
     background-color: #1877f2;
