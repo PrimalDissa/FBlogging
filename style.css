@@ -1,0 +1,66 @@
+body{
+    background-color: #f0f2f5;
+}
+.header{
+    text-align: center;
+    color: #1877f2;
+    font-size: 50px;
+    font-family:Amaryllis Sans ;
+}
+.container{
+    border-radius: 8px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, .1), 0 8px 16px rgba(0, 0, 0, .1);
+    margin: auto;
+    padding: 0 0 14px 10px;
+    width: 396px;
+    
+}
+.btn{
+    background-color: #1877f2;
+    border: none;
+    border-radius: 6px;
+    font-size: 20px;
+    line-height: 48px;
+    padding: 0 16px;
+    width: 365px;
+    text-align: center;
+    color: white;
+    cursor: pointer;
+    text-decoration: none; 
+    
+}
+.email{
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+}
+.password{
+    border-radius: 6px;
+    font-size: 17px;
+    padding: 14px 16px;
+    width: 330px;
+}
+
+.sub {
+    font-family: inherit;
+    padding: 20px 0 10px 0;
+    text-align: center;
+    color: #1b1e22;
+}
+a{
+    color: #1877f2;
+    font-size: 14px;
+    font-weight: 500;
+    cursor: pointer;
+    text-decoration: none; 
+    text-align: center;
+    
+    
+}
+a:hover{
+    text-decoration: underline; 
+}
+.div{
+    margin-left: 20%;
+}
